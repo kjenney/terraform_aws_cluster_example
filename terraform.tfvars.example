@@ -1,0 +1,3 @@
+instance_type = "t2.medium"
+keypair = "test"
+allow_ssh_from_cidrs = ["190.18.32.44/32"]
